@@ -1,5 +1,10 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-debug.apk"
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-debug.apk",
+  "releaseNotes": [
+    "Yeni splash animasyonu eklendi",
+    "Film/dizi kontrol kaybolma sorunu düzeltildi",
+    "Performans iyileştirmeleri yapıldı"
+  ]
 }
