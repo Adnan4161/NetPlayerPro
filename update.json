@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.14",
+  "versionCode": 15,
+  "versionName": "1.0.15",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-debug.apk",
   "releaseNotes": [
-    "Favoriler özelliği düzenlendi",
+    "Favoriler özelliği telefon için düzenlendi",
     "İyileştirmeler yapıldı"
   ]
 }
