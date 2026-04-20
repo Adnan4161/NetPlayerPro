@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.9",
+  "versionCode": 10,
+  "versionName": "1.0.10",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-debug.apk",
   "releaseNotes": [
-    "Bilgi Şeridi Kaldırıldı"
+    "Bildirim Özelliği Eklendi"
   ]
 }
