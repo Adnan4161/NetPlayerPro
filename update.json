@@ -1,10 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.16",
+  "versionCode": 17,
+  "versionName": "1.0.17",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-debug.apk",
   "releaseNotes": [
-    "Player donma hataları giderildi.",
-    "Video bugları düzeltildi",
-    "İletişim bilgileri eklendi"
+    "Player düzeltmeleri",
   ]
 }
