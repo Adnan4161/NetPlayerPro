@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.20",
+  "versionCode": 21,
+  "versionName": "1.0.21",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-debug.apk",
   "releaseNotes": [
-    "Son İzlenenler Eklendi.",
+    "Genel İyileştirmeler.",
   ]
 }
