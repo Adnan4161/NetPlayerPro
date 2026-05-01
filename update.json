@@ -1,8 +1,12 @@
 {
-  "versionCode": 59,
-  "versionName": "3.0.7",
+  "versionCode": 60,
+  "versionName": "3.0.8",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
-    "Güncelleme Tamamlandı"
+    "Güncelleme Tamamlandı",
+    "Canlı yayın kalite ayarlaması yapıldı.",
+    "Radyo arka plan değiştirildi.",
+    "Vavoo yayınları iyileştirmeleri.",
+    "Güncelleme düzeltmeleri yapıldı."
   ]
 }
