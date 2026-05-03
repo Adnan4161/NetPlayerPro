@@ -1,11 +1,9 @@
 {
-  "versionCode": 61,
-  "versionName": "3.0.9",
+  "versionCode": 62,
+  "versionName": "3.0.10",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
     "Güncelleme Tamamlandı",
-    "Otomatik önbellek temizleme özelliği eklendi.",
-    "Film ve Diziler kademeli listeleme eklendi.",
-    "Canlı bölümü ilk odak değiştirildi."
+    "Telefonlar için playera pip,ses,parlaklık ayarı eklendi."
   ]
 }
