@@ -4,6 +4,7 @@
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
     "Güncelleme Tamamlandı",
-    "Telefonlar için playera pip,ses,parlaklık ayarı eklendi."
+    "Canlı yayın geri atlama sorunu düzeltildi.",
+    "Film ve dizi listelerinde olası donma optimize edildi."
   ]
 }
