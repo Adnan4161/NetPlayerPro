@@ -1,10 +1,9 @@
 {
-  "versionCode": 64,
-  "versionName": "3.0.11",
+  "versionCode": 65,
+  "versionName": "3.0.12",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
     "Güncelleme Tamamlandı",
-    "Canlı yayın geri atlama sorunu düzeltildi.",
-    "Film ve dizi listelerinde olası donma optimize edildi."
+    "Tek Afişli Dizi Yapısı Aktif Edildi"
   ]
 }
