@@ -1,10 +1,9 @@
 {
-  "versionCode": 70,
-  "versionName": "3.0.17",
+  "versionCode": 71,
+  "versionName": "3.0.18",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
-    "Güncelleme Tamamlandı",
-    "Filmler bölümüne fragman eklendi.",
-    "Yön tuşları iyileştirme yapıldı."
+    "Güncelleme Tamamlandı:",
+    "-Player güncellemesi yapıldı."
   ]
 }
