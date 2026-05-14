@@ -1,9 +1,10 @@
 {
-  "versionCode": 71,
-  "versionName": "3.0.18",
+  "versionCode": 72,
+  "versionName": "3.0.19",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
     "Güncelleme Tamamlandı:",
-    "Player güncellemesi yapıldı."
+    "Afiş Mantığı geliştirildi.",
+    "Player iyileştirmesi yapıldı."
   ]
 }
