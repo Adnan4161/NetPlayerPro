@@ -1,9 +1,6 @@
 ﻿{
-  "versionCode": 79,
-  "versionName": "3.1.4",
+  "versionCode": 80,
+  "versionName": "3.1.5",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
-  "releaseNotes": [
-    "EPG sistemi eklendi.",
-    "Film bölümü açılışı hızlandı."
-  ]
+  "releaseNotes": [ ]
 }
