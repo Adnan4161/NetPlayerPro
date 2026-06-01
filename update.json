@@ -1,6 +1,8 @@
 ﻿{
-  "versionCode": 82,
-  "versionName": "3.1.7",
+  "versionCode": 83,
+  "versionName": "3.1.8",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
-  "releaseNotes": [ ]
+  "releaseNotes": [
+    "Film ve Dizilerde Son Eklenenler kategorisi eklendi."
+  ]
 }
