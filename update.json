@@ -1,9 +1,8 @@
 ﻿{
-  "versionCode": 88,
-  "versionName": "3.1.13",
+  "versionCode": 89,
+  "versionName": "3.1.14",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
-    "Vavoo Yayınları düzeltildi",
-    "Dünya Kupası kanalları eklendi"
+    "Dizilerde otomatik sonraki bölüme geçme eklendi"
   ]
 }
