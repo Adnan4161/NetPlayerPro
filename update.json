@@ -1,8 +1,8 @@
 ﻿{
-  "versionCode": 90,
-  "versionName": "3.1.15",
+  "versionCode": 91,
+  "versionName": "3.1.16",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
-    "Youtube Yayınları Eklendi"
+    "Vavoo hata düzenltmeleri"
   ]
 }
