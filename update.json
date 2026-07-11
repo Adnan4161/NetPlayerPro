@@ -1,8 +1,9 @@
 ﻿{
-  "versionCode": 91,
-  "versionName": "3.1.16",
+  "versionCode": 92,
+  "versionName": "3.1.17",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
-    "Vavoo hata düzenltmeleri"
+    "Film ve dizilerde tür ve oyuncu bilgileri eklendi",
+    "Player iyileştirmeleri"
   ]
 }
