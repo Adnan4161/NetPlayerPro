@@ -1,9 +1,9 @@
 ﻿{
-  "versionCode": 92,
-  "versionName": "3.1.17",
+  "versionCode": 93,
+  "versionName": "3.1.18",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
-    "Film ve dizilerde tür ve oyuncu bilgileri eklendi",
+    "Çeşitli iyileştirmeler",
     "Player iyileştirmeleri"
   ]
 }
