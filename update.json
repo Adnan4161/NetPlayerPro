@@ -1,11 +1,9 @@
 ﻿{
-  "versionCode": 100,
-  "versionName": "3.2.1",
+  "versionCode": 101,
+  "versionName": "3.2.2",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
-    "Daha Net ve Hızlı Kanallar",
-    "Almanya Kanalları Eklendi",
-    "Daha Akıcı Arayüz",
-    "Hava Durumu bug düzeltildi"
+    "Player güncellemesi",
+    "Altyazı sorunları giderildi"
     ]
 }
