@@ -1,8 +1,8 @@
 ﻿{
-  "versionCode": 102,
-  "versionName": "3.2.3",
+  "versionCode": 103,
+  "versionName": "3.2.4",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
-    "Player güncellemesi"
+    "Player iyileştirmesi"
     ]
 }
