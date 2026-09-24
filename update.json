@@ -1,10 +1,8 @@
 ﻿{
-  "versionCode": 106,
-  "versionName": "3.2.7",
+  "versionCode": 107,
+  "versionName": "3.2.8",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
-    "Radyo yayınları arka planda oynatma",
-    "Yayın Çözünürlük Bilgisinin Eklenmesi",
-    "Vavoo Kanallarının Ayrı Bir Kategoriye Taşınması"
+    "Hata Düzeltmeleri"
     ]
 }
