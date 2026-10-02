@@ -1,9 +1,8 @@
 ﻿{
-  "versionCode": 109,
-  "versionName": "3.2.10",
+  "versionCode": 110,
+  "versionName": "3.2.11",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
-    "Hata Düzeltmeleri",
-    "1157 Adet Dizi Eklendi"
+    "Hata Düzeltmeleri"
     ]
 }
