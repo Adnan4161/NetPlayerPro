@@ -1,8 +1,8 @@
 ﻿{
-  "versionCode": 110,
-  "versionName": "3.2.11",
+  "versionCode": 111,
+  "versionName": "3.2.12",
   "apkUrl": "https://raw.githubusercontent.com/Adnan4161/NetPlayerPro/main/app-release.apk",
   "releaseNotes": [
-    "Hata Düzeltmeleri"
+    "Youtube Dahili Player Güncellemesi"
     ]
 }
